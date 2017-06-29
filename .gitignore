@@ -1,4 +1,7 @@
 **/.Rhistory
+**/.RData
+**/.Rproj.user/*
+**/.Rprofile
 
 data/*
 football_data/*
@@ -13,3 +16,7 @@ instacart_data/*
 .\#*
 
 .DS_Store
+.Rproj.user
+
+**/merastore_db/*
+
